@@ -1,0 +1,2 @@
+React front-end created using:
+    npx create-react-app <directory name> --use-npm

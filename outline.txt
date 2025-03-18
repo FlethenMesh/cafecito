@@ -1,0 +1,25 @@
+Coffee Review/Rating App: Cafecito
+
+DATA:
+ - Coffee Shops -> class
+    - name
+    - number of visits
+    - stored in a list? 
+ - Drink -> class
+    - drink name
+    - integer overall rating
+    - integer rating for several categories contributing to overall rating
+    - review (string)
+ - User -> class
+    - user name
+    - number of reviews
+    - favorite coffee shop
+
+UI/UX:
+ - list of coffee shops
+    - list can be sorted with filters/tags
+ - user can select coffee shops and then see relevant data on that coffee shop
+
+STACK:
+ - JavaScript but open to using a framework for scalability
+ - Open to learning any vac
